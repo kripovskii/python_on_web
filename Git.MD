@@ -16,7 +16,8 @@ git add .
 ```
 5. Укажите git ваш репозиторий:
 ```bash
-git remote add origin <ваша ссылка>```
+git remote add origin <ваша ссылка>
+```
 6. Создайте коммит с изменениями. В сообщении укажите тему занятия, по которому делали задание:
 ```bash
 git commit -m "add routing task"
