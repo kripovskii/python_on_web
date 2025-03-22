@@ -31,7 +31,7 @@ git push -u origin main
 
 1. Добавьте изменения :
 ```bash
-git add.
+git add .
 ```
 2. Создайте коммит:
 ```bash
